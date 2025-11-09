@@ -1,0 +1,165 @@
+Crie um site moderno e responsivo chamado Calculaki, com design limpo, cores base em azul e branco, estilo minimalista e ícones ilustrativos.
+O site deve conter várias ferramentas e calculadoras online, todas acessíveis no mesmo domínio, divididas por categorias.
+O foco é ser leve, rápido, útil e ranquear bem no Google (SEO otimizado).
+
+A estrutura do site deve seguir o modelo abaixo:
+
+🏠 Página Inicial
+
+Cabeçalho com logo “Calculaki” e menu fixo.
+
+Chamada principal:
+"Precisa calcular algo? Calcula aqui!"
+Subtexto: “As melhores calculadoras online para finanças, saúde, estudos e muito mais. Tudo em um só lugar.”
+
+Campo de busca para o usuário digitar o tipo de cálculo que quer.
+
+Seções por categoria (com ícones e cards clicáveis):
+
+💰 Finanças e investimentos
+
+🧠 Estudos e matemática
+
+⚖️ Saúde e bem-estar
+
+📅 Tempo e produtividade
+
+🧾 Ferramentas gerais
+
+💰 Categoria: Finanças e Investimentos
+
+Cada ferramenta deve ter sua página com:
+
+Campo de entrada de valores e botões “Calcular” / “Limpar”.
+
+Explicação curta abaixo com o título “Como funciona este cálculo”.
+
+Inclua as seguintes calculadoras:
+
+Calculadora de juros compostos
+
+Calculadora de financiamento (prestação mensal)
+
+Calculadora de salário líquido
+
+Calculadora de desconto (%)
+
+Calculadora de horas extras
+
+Simulador de investimentos (aporte mensal + taxa de juros)
+
+Calculadora de meta financeira (quanto guardar por mês)
+
+Calculadora de rentabilidade real (descontando inflação)
+
+Conversor de dólar para real e vice-versa
+
+Calculadora de inflação acumulada
+
+🧠 Categoria: Estudos e Matemática
+
+Inclua:
+
+Calculadora de regra de 3
+
+Calculadora de porcentagem
+
+Conversor de frações para decimal
+
+Calculadora de média simples e ponderada
+
+Conversor de unidades (km ↔ m, litros ↔ ml etc.)
+
+Gerador de números aleatórios
+
+Calculadora de tempo (dias, horas, minutos)
+
+Conversor binário, decimal e hexadecimal
+
+⚖️ Categoria: Saúde e Bem-Estar
+
+Inclua:
+
+Calculadora de IMC
+
+Calculadora de gasto calórico diário (TMB)
+
+Calculadora de frequência cardíaca máxima
+
+Calculadora de percentual de gordura corporal (simples)
+
+Cronômetro de treino
+
+Calculadora de ingestão de água diária
+
+📅 Categoria: Tempo e Produtividade
+
+Inclua:
+
+Contador regressivo (timer)
+
+Cronômetro online
+
+Calculadora de diferença entre datas
+
+Planejador de rotina (checklist simples com horário)
+
+Calculadora de idade em dias, meses e anos
+
+🧾 Categoria: Ferramentas Gerais
+
+Inclua:
+
+Contador de palavras e caracteres
+
+Gerador de senhas seguras
+
+Conversor de texto (maiúsculo/minúsculo)
+
+Calculadora de proporções (receitas, medidas etc.)
+
+Ferramenta para inverter texto
+
+Calculadora de divisão de conta (rachadinha)
+
+Conversor de temperatura (Celsius, Fahrenheit, Kelvin)
+
+📈 Rodapé
+
+Texto:
+“Calculaki © 2025 – Todas as ferramentas online em um só lugar.
+Simples, rápido e gratuito. Desenvolvido com foco em utilidade e praticidade.”
+
+Links para:
+
+Política de Privacidade
+
+Contato
+
+Sobre o site
+
+⚙️ Requisitos técnicos
+
+Cada ferramenta deve funcionar no próprio navegador (HTML + JavaScript).
+
+Site otimizado para dispositivos móveis.
+
+Títulos e descrições configuráveis para SEO (ex: “Calculadora de Juros Compostos – Calculaki”).
+
+Estrutura leve e carregamento rápido.
+
+Integração possível com Google Analytics.
+
+Opção futura de inserir scripts de monetização (AdSense).
+
+Página inicial com busca que filtra as calculadoras.
+
+🌟 Extras opcionais
+
+Adicionar um modo escuro (Dark Mode).
+
+Adicionar uma pequena animação no botão “Calcular”.
+
+Exibir resultados com visual moderno (caixa colorida, números grandes).
+
+Exibir uma seção “Outras calculadoras que você pode gostar” no final de cada ferramenta.
